@@ -1,16 +1,15 @@
-### Hi there 👋
+###  Bem Vindas ao meu perfil 💻 
 
-<!--
-**JoaoVjctorr/JoaoVjctorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Joao Victor
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br),[meta nucleo](metanucleo.com.br).
+- Estou me desolvolvento na liguagem JavaScript, java, php.
+- Utilizo o github para minha organização e corpartilhamento dos meus projetos como futuro desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entra em contado comigo 💻
+
+joaovictorg3x@gmail.com
+
+@jaozerbks_
+
+![](https://media1.tenor.com/m/GPt5HA7g2yEAAAAC/r-studio-matlab.gif)
